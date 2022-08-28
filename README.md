@@ -46,7 +46,7 @@ person (string) - customer_id
 time (int) - time in hours since the start of the test.
 value (dictionary containing strings) - contains either offer id, amount or reward depending on the event.
 # Results
-I have created a medium post about the 5 Things to explore while building an ML model using starbucks data and project as a reference which allows one to explore all verticals before finalizing the model. It can be found here.
+I have created a medium post about the 5 Things to explore while building an ML model using starbucks data and project as a reference which allows one to explore all verticals before finalizing the model. It can be found <a href="https://medium.com/@jainpranjal4444/5-things-to-explore-while-building-an-ml-model-35ad4b7c4021">here</a>.
 # Licensing & Acknowledgement
 This project was completed as part of the Udacity Data Scientist Nanodegree.Some concepts and codes are adapted from here:(https://github.com/jdabel123/Udacity-CapstoneProject-Starbucks/blob/main/Starbucks_Capstone_notebook.ipynb). Special thanks to Udacity, Starbucks and the mentioned github source.
 
